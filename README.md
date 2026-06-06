@@ -11,12 +11,12 @@ Wix Harmony Editor
 
 
 ## Features Implementd
--Elegent homepage design.
--Product shoecase section with categories.
--About Us page describing the brand identity.
--Contact form for customer inquiries.
--Interactive cart.
--Profiles management pages.
--Responsive layout for mobile and desktop.
--High-quality skincare brand visuals and custom branding elements.
--Smooth navigation between pages.
+- Elegent homepage design.
+- Product shoecase section with categories.
+- About Us page describing the brand identity.
+- Contact form for customer inquiries.
+- Interactive cart.
+- Profiles management pages.
+- Responsive layout for mobile and desktop.
+- High-quality skincare brand visuals and custom branding elements.
+- Smooth navigation between pages.
