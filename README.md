@@ -36,4 +36,17 @@ Wix Harmony Editor
    ### Cart page
   ![Cart page](screenshots/cart.png)
   
-  
+  ## Challenges
+  - Designing a luxury brand look and keeping it consistent.
+  - Creating images to match brand identity.
+  - Learning how to structure a full website project.
+  - Organizing layout and spacing for a clean UI.
+
+    ## Lessons learned
+    - Learned how to build a complete brand identity.
+    - Improve UI/UX design skills.
+    - Gain experience in responsive design.
+    - Understood how branding affects users experience.
+      ## live website link
+      [Click here to view the live website](https://reemosamasalih.wixsite.com/velora)
+      
