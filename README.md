@@ -3,6 +3,8 @@
 ## Student Information
 - Student 1:
   Malaz Mohammed Ibrahim   24579/2024
+  - Student 2:
+  Reem Osama Ali  24144/2024
 
 - Course: E-commerce and Web Applicaion
 # **Velora Luxury Skincare Brand Website**
